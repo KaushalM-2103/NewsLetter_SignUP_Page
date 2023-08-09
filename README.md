@@ -9,7 +9,7 @@ _Design by-_
 
 # Kaushal Mishra 😎
 
-**In this challenge I have used `HTML/CSS`, `JAVASCRIPT`, `GRID`, `FLEXBOX`, `MEDIA QUERRY` for mobile `responsiveness` and tried to
+**In this challenge I have used `HTML/CSS`, `JAVASCRIPT`, `LOCALSTORAGE`, `FLEXBOX`, `MEDIA QUERRY` for mobile `responsiveness` and tried to
 ⚒build🛠 as shown in the bellow image.**
 
 With the help dynmaic javascript created the testimonial cards 
