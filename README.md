@@ -26,7 +26,7 @@ There are many ways to host your project for free. recommend hosts are:
 
 ## Author
 
-- Website - [Newsletter sign-up form with success message](https://kaushalm-2103.github.io/testimonials-grid-section/)
+- Website - [Newsletter sign-up form with success message](https://kaushalm-2103.github.io/NewsLetter_SignUP_Page/)
 - Frontend Mentor - @KaushalM-2103
 - Linkedin - [kaushalmishra21](https://www.linkedin.com/in/kaushalmishra21/)
 
