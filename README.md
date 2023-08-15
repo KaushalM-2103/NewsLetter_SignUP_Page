@@ -12,7 +12,7 @@ _Design by-_
 **In this challenge I have used `HTML/CSS`, `JAVASCRIPT`, `LOCALSTORAGE`, `FLEXBOX`, `MEDIA QUERRY` for mobile `responsiveness` and tried to
 ⚒build🛠 as shown in the bellow image.**
 
-With the help dynmaic javascript created the testimonial cards 
+Used LocalStorage to store the entered emails.
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
